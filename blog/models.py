@@ -5,6 +5,7 @@ from django.conf import settings
 from django.db import models
 from django.utils import timezone
 
+# Create your medels here.
 # 모델을 정의하는 코드
 # models 은 Post가 장고 모델임을 의미하며, 이를 통해 장고는 Post가 데이터베이스에 저장되어야 한다는 것을 알게 됨
 class Post(models.Model):
