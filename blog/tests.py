@@ -14,3 +14,5 @@ from django.test import TestCase
 # Test JIRA in Desktop - 4 - visual sourcecode
 
 # Test JIRA in New branch - 1
+
+# Test JIRA in New branch - 2
