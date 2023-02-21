@@ -9,4 +9,6 @@ from django.test import TestCase
 
 # Test JIRA in Desktop - 2
 
-# Test JIRA in Desktop - 3
+# Test JIRA in Desktop - 3 - github
+
+# Test JIRA in Desktop - 4 - visual sourcecode
